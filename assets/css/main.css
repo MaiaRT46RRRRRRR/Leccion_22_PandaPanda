@@ -59,6 +59,7 @@ a:hover{
 	left: 40px;
 	color:#ca3c25;
 	font-size: 40px;
+	cursor: pointer;
  }
  #cont{
  	color: white;
