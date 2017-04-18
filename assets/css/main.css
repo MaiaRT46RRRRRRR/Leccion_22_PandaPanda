@@ -66,9 +66,12 @@ a:hover{
  	height: 100vh;
  }
 
- .origen  , .extin{
+ #inicio  , #fin{
  	display: inline-block;
  	width: 34%;
  	text-align: justify;
  	padding:30px 10px 10px 10px;
+ }
+ .visualizar{
+ 	visibility: hidden;
  }
