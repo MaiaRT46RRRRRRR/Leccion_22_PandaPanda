@@ -16,3 +16,9 @@ console.log(cerrar);
 		img[i].style.display="inline-block"	;
 		}
 	});
+	document.getElementById("origen").addEventListener("click",function(){
+		document.getElementById("inicio").classList.toggle('visualizar');
+	})
+	document.getElementById("exti").addEventListener("click",function(){
+		document.getElementById("fin").classList.toggle('visualizar');
+	})
